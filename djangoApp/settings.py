@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '@z@5kfi1^x7q#+-ycq#-xack-k59vfzqq6p98b5%eezj8p+#&4'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['https://fast-beach-00008.herokuapp.com/','127.0.0.1']
 
