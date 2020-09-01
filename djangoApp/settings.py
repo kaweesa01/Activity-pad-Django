@@ -25,7 +25,7 @@ SECRET_KEY = '@z@5kfi1^x7q#+-ycq#-xack-k59vfzqq6p98b5%eezj8p+#&4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://activity-pad.herokuapp.com/']
+ALLOWED_HOSTS = ['activity-pad.herokuapp.com','localhost', '127.0.0.1']
 
 
 # Application definition
